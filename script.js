@@ -6,7 +6,7 @@ function main(){
     .then(function(signal){
         const video=document.getElementById("myVideo");
         video.srcObject=signal;
-        video.play();
+        document.getElementById("myVideo").play();
     })
     .catch(function(err){
         alert(err);
