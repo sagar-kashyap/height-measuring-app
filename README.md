@@ -1,5 +1,6 @@
-Try it yourself: https://height-measuring-tool-using-js.netlify.app/
+Try it yourself(use your mobile): https://height-measuring-tool-using-js.netlify.app/
 
+Note:- This app does not work on laptop or computer because they dont have gyroscope in them. This can be used using your mobile phones.
 # height-measuring-app
 
 If you were like me in childhood whenever I saw a tall tree or building I used to imagine how tall the tree is?
